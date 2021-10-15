@@ -1,3 +1,3 @@
 # CSC-131-DnD-Character-Sheet
 
--Designed an interactive character sheet helper for Dungeons and Dragons game. Users can enter data values for attributes  and roll simulated dice with different sizes.
+CSC 131 was my computer software engineering class, where we had a semester-long group project focusing on the principles of Software Engineering covering the software development life cycle, including software requirements engineering (elicitation, modeling, analysis, and specification), software design, software implementation, and testing. We Designed an interactive character sheet helper for the Dungeons and Dragons game. Users can enter data values for attributes, enter a character name, and roll simulated dice with different sizes. The values entered can be saved for later to allow character permanency.
